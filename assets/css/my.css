@@ -3,6 +3,12 @@
   height: 120px;
 }
 .btn-cta-third{
-  height: 6px;
-  width: border-box;
+  height: 30px;
+  width: 180px;
+  background: #de86bd;
+  border: 1px solid #de86bd;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 8px;
 }
